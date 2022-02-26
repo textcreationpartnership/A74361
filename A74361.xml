@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act for removing all papists, and all officers and soldiers of fortune, and divers other delinquents from London and Westminster, and confining them within five miles of their dwellings; and for encouragement of such as discover priests and jesuits, their recievers and abettors. Die Martis, 26⁰ Februarii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74361</idno>
+            <idno type="STC">Thomason E1060_83</idno>
+            <idno type="STC">ESTC R208812</idno>
+            <idno type="EEBO-CITATION">99867734</idno>
+            <idno type="PROQUEST">99867734</idno>
+            <idno type="VID">120057</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 120057)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 157:E1060[83])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act for removing all papists, and all officers and soldiers of fortune, and divers other delinquents from London and Westminster, and confining them within five miles of their dwellings; and for encouragement of such as discover priests and jesuits, their recievers and abettors. Die Martis, 26⁰ Februarii, 1649. Ordered by the Parliament, that this act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>[2], 713-722  [i.e. 12] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649 [i.e. 1650]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>On 6P2: the last word of first line of text: 'Eng-'; first word of line below initial: 'wars)'; last word of last full line of text: 'inconveni-'.</note>
+                  <note>Also issued as part of a through-paged folio set with a table for the entire set added.</note>
+                  <note>Signatures: 6P⁴ 6Q² .</note>
+                  <note>Ornament on t.p.; initial letter; text in black letter.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Legal status, laws, etc. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:120057:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>AN ACT For removing all Papiſts, and all Officers and Soldiers of Fortune, And divers other DELINQUENTS From <hi>London</hi> and <hi>Weſtminſter,</hi> and confining them with<g ref="char:EOLhyphen"/>in five miles of their dwellings; and for encourage<g ref="char:EOLhyphen"/>ment of ſuch as diſcover Prieſts and Jeſuits, their Receivers and Abettors.</p>
+            <figure>
+               <figDesc>Anglo-Irish Protectorate blazon or coat of arms</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Die Martis, 26<hi rend="sup">o</hi> Februarii, 1649.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this Act be forthwith printed and publiſhed.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London:</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England.</hi> 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Act_of_Parliament">
+            <pb facs="tcp:120057:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb n="713" facs="tcp:120057:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>AN ACT FOR Removing all Papiſts, and all Officers and Soldiers of Fortune, and divers other Delinquents from <hi>London</hi> and <hi>Weſtminſter,</hi> and confining them within five miles of their dwellings; and for encourage<g ref="char:EOLhyphen"/>ment of ſuch as diſcover Prieſts and Jeſuits, their Receivers and Abettors.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> taking notice of the great confluence and reſort of Papiſts, Officers and Soldi<g ref="char:EOLhyphen"/>ers of Fortune, and other diſaffected per<g ref="char:EOLhyphen"/>ſons (Who have born Arms againſt them, and adhered to the Enemy in the late Wars) unto the Cities of <hi>London</hi> and <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter,</hi> and other the parts adjacent; and having certain Information of many Deſigns now in hand, endeavored to be carried on by Correſpon<g ref="char:EOLhyphen"/>dencies with the Son to the late Tyrant, his Agents and Complices, and by the Conſpira<g ref="char:EOLhyphen"/>cies of old and new Malignants, in favor of his pretences againſt the Commonwealth and preſent Government; the ſubtitle Contrivers of which Plots may for the effecting of the ſame, probably and with much eaſe make uſe of ſuch dangerous and diſcontented perſons now in and about the ſaid Cities, if ſuffered there to re<g ref="char:EOLhyphen"/>main, Do for the prevention of ſuch inconveni<g ref="char:EOLhyphen"/>ences
+<pb n="714" facs="tcp:120057:3"/>
+               <!-- PDF PAGE 88 -->and diſturbances as may thereby ariſe, Think fit to Order and Ordain, and be it by their Authority Enacted and Ordained, That all Papiſts whatſoever, and all Officers and Soldiers of Fortune, and other perſons who have born Arms againſt the Parliament, or have adhered unto, or willingly aſſiſted their Enemies in the late War, being not under re<g ref="char:EOLhyphen"/>ſtraint, and not hereafter excepted, ſhall at or before the Twentieth day of <hi>March,</hi> One thou<g ref="char:EOLhyphen"/>ſand ſix hundred forty nine (or if then under re<g ref="char:EOLhyphen"/>ſtraint, within Five days after their reſpective enlargement) depart out of the ſaid Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and late Lines of Com<g ref="char:EOLhyphen"/>munication, and all other places within twen<g ref="char:EOLhyphen"/>ty miles of the ſaid late Lines: And if any ſuch perſon ſhall continue within the ſaid late Lines, or the ſaid diſtance of twenty miles from the ſaid Lines, after the ſaid Twentieth day of <hi>March,</hi> or if then under reſtraint, ſhall continue within the diſtance aforeſaid, above five days af<g ref="char:EOLhyphen"/>ter his or their enlargement, ſuch perſons ſhall be apprehended and impriſoned without Bail or Mainprize, until ſuch of them as ſhal be thought fit to be Bailed, pay all charges of their Appre<g ref="char:EOLhyphen"/>henſion and Impriſonment, and give good ſe<g ref="char:EOLhyphen"/>curity for their departure as aforeſaid, within five days after their enlargement, and not to return within the time limited by this Act; and the maner of taking the ſaid Security is hereby referred to the care and direction of the Coun<g ref="char:EOLhyphen"/>cel of State, who are alſo authorized and re<g ref="char:EOLhyphen"/>quired to cauſe ſuch of the ſaid Priſoners as have not yet compounded for their Delinquen<g ref="char:EOLhyphen"/>cies, and whom they judge dangerous and fit to be made examples of Iuſtice, to be pro<g ref="char:EOLhyphen"/>ceeded and dealt with according to their de<g ref="char:EOLhyphen"/>merits.
+<pb n="715" facs="tcp:120057:3"/>
+               <!-- PDF PAGE 88 -->And for the better execution of this Act, It is further Ordained and Declared by the Authority aforeſaid, That the Lord Major of the City of <hi>London,</hi> and all Iuſtices of the Peace within the ſaid City and late Lines of Commu<g ref="char:EOLhyphen"/>nication, and of the ſeveral Counties of <hi>Middle<g ref="char:EOLhyphen"/>ſex, Hertford, Eſſex, Kent</hi> and <hi>Surrey;</hi> and the re<g ref="char:EOLhyphen"/>ſpective Committees and Commiſſioners for the <hi>Militia</hi> within the ſaid City and Liberties, the City of <hi>Weſtminſter,</hi> Borough of <hi>Southwark,</hi> hamlets of the Tower and Suburbs, or any two or more of them in their reſpective Liberties and Iuriſdictions, ſhall and may, and are hereby authorized and required to cauſe ſtrict Wards and Watches to be kept, &amp; to make frequent ſearches for, and apprehend, or cauſe to be apprehended, all Papiſts and other ſuch Delinquents as afore<g ref="char:EOLhyphen"/>ſaid, which ſhall be found within the diſtance a<g ref="char:EOLhyphen"/>foreſaid, after the ſaid twentieth day of <hi>March;</hi> and all ſuch perſons ſo apprehended and taken, and brought before them or any two of them as a<g ref="char:EOLhyphen"/>foreſaid, to examine, or cauſe to be examined be<g ref="char:EOLhyphen"/>fore one or more Iuſtice of the Peace of the Li<g ref="char:EOLhyphen"/>berty where the inpprehenſion is; who is alſo to take Depoſitions upon Oath againſt the ſaid Parties, and to commit them over to ſome com<g ref="char:EOLhyphen"/>mon Goal or Priſon, and binde over Proſecu<g ref="char:EOLhyphen"/>tors and Witneſſes to appear, proſecute and te<g ref="char:EOLhyphen"/>ſtifie at the next General Seſsions or Goal De<g ref="char:EOLhyphen"/>livery for the place; and of their doings therein, ſhall under their Hands and Seals in writing forthwith acquaint the Councel of State, to the end the Offenders may be dealt with according to Law and Iuſtice, and according to the di<g ref="char:EOLhyphen"/>rections beforementioned: mnd all Sheriffs, Bayliffs, Conſtables; and all Captains of Guards, Officers and Soldiers, and other the
+<pb n="716" facs="tcp:120057:4"/>
+               <!-- PDF PAGE 89 -->good People of this Commonwealth, are re<g ref="char:EOLhyphen"/>quired to be ayding to the ſaid Iuſtices of Peace, Committees and Commiſſioners, their Agents, Officers and Miniſters, in the execution of this Act; and in caſe any Goaler, Conſtable, or other Officer to whom any the perſons aforeſaid ſhall be committed, ſhall permit ſuch perſon or per<g ref="char:EOLhyphen"/>ſons to go at liberty, without the ſpecial War<g ref="char:EOLhyphen"/>rant or diſcharge of the Magiſtrate by whom they were committed, or other ſufficient Authority in that behalf, that the ſame ſhall be taken and ad<g ref="char:EOLhyphen"/>judged an Eſcape, and the Offender ſhall be pro<g ref="char:EOLhyphen"/>ceeded againſt as for an Eſcape, according to Law. And for the better diſcovery, prevention and a<g ref="char:EOLhyphen"/>voiding of ſuch trayterous and dangerous Con<g ref="char:EOLhyphen"/>ſpiracies as are daily deviſed and plotted againſt the ſafety of the Parliament and this Common<g ref="char:EOLhyphen"/>wealth, by ſuch Papiſts and ill-affected perſons as aforeſaid, who taking liberty to convene to<g ref="char:EOLhyphen"/>gether, and without reſtraint wandring and ſhifting from place to place, become Spyes and Intelligencers for the Common Enemy, continue perſonal Correſpondencies each with other, and gather thereby the more ſtrength and opportunity to corrupt and ſeduce the good Peo<g ref="char:EOLhyphen"/>ple of this Commonwealth, and to form, con<g ref="char:EOLhyphen"/>trive and effect their ſaid ill Deſigns, whereof of late years there hath been ſad experience; Be it Enacted and Ordained by the authority afore<g ref="char:EOLhyphen"/>ſaid, That all the ſaid perſons appointed to de<g ref="char:EOLhyphen"/>part as aforeſaid, ſhall from and after the Firſt day of <hi>October,</hi> One thouſand ſix hundred and fifty (and all other Papiſts, and other adhe<g ref="char:EOLhyphen"/>rents to the Enemies in the late Wars, ſhall at or before the Twentieth day of <hi>March,</hi> One thouſand ſix hundred forty nine, if they be with<g ref="char:EOLhyphen"/>in this Commonwealth not authorized to ſtay as
+<pb n="717" facs="tcp:120057:4"/>
+               <!-- PDF PAGE 89 -->aforeſaid, and not reſtrained or ſtayed, either by Impriſonment or by ſuch ſickneſs and infir<g ref="char:EOLhyphen"/>mity of body, as they ſhall not be able to travel without imminent danger of life: And in ſuch caſes of abſence out of the Land, reſtraint or ſtay, or being authorized as aforeſaid, then within twenty days next after they ſhall return into the Land, and be enlarged from ſuch im<g ref="char:EOLhyphen"/>priſonment or reſtraint, and ſhall be able to tra<g ref="char:EOLhyphen"/>vel, or after their ſaid authorized time of ſtay determined) repair to the place of dwelling where they uſually heretofore made their com<g ref="char:EOLhyphen"/>mon abode; or not having any certain abode, ſhall repair to the place where ſuch perſon was born, or where the Father or Mother of ſuch per<g ref="char:EOLhyphen"/>ſon ſhal then be dwelling, and give ſuch notice of their coming as is afterwards expreſſed; and ſhal not at any time after paſs or remove above five miles from thence, upon pain of Impriſonment, and Sequeſtration of all their Eſtates Real and Perſonal, as in caſe of Delinquency, to be inflicted upon them by the Committee or Com<g ref="char:EOLhyphen"/>miſsioners for Sequeſtration where they ſhall reſpectively be, or their Eſtates lie, and ſuch other proceedings to be had with and againſt them, as is uſual in other caſes of Sequeſtra<g ref="char:EOLhyphen"/>tion for Delinquency. Provided always, and it is Enacted by the Authority aforeſaid, That all ſuch perſons who are to make their repair, and not to remove above five miles as afore<g ref="char:EOLhyphen"/>ſaid, ſhall within twenty days after their coming to any of the ſaid places (as the caſe ſhall happen) notifie their coming thither, and preſent themſelves, and deliver their true names in writing to the Miniſter of the Pariſh, and to the Conſtable, Headborough, or Tything<g ref="char:EOLhyphen"/>man of the Town, who ſhall thereupon
+<pb n="718" facs="tcp:120057:5"/>
+               <!-- PDF PAGE 90 -->preſently enter the ſame into a Book, to be kept in every Pariſh for that purpoſe; and the ſaid Miniſter, Conſtable, Headborough or Tything<g ref="char:EOLhyphen"/>man, ſhall certifie the ſame in writing to the Iuſtices of the Peace of the ſame County, at the next General or Quarter Seſſions to be held in the ſame County; and the ſaid Iuſtices ſhall cauſe the ſame to be entred by the Clerk of the Peace in the Rolls of the ſame Seſsions, upon pain of forfeiture of five pounds for every default of not preſenting or entring as aforeſaid, to be levyed upon the goods of the Defaulter for the uſe of the Poor, and maimed Soldiers of the County, by Warrant from the Iuſtices of Aſ<g ref="char:EOLhyphen"/>ſize or Circuit, or Iuſtices of Peace at their Quarter Seſsions; who are hereby authorized and required within their ſeveral Limits reſpe<g ref="char:EOLhyphen"/>ctively, to enquire of, and puniſh the ſaid de<g ref="char:EOLhyphen"/>faults: And to the end the Commonwealth he not peſtred and overcharged with the multitude of ſuch ſeditious and dangerous people as is aforeſaid, who having little or no ability to an<g ref="char:EOLhyphen"/>ſwer or ſatisfie any competent penalty for their diſobedience and contempt of the Laws, and being committed to Priſon, do live for the moſt part in better caſe there, then if they were at li<g ref="char:EOLhyphen"/>berty, or are otherwiſe overchargeable to be kept; Be it therefore Enacted by the Authority afore<g ref="char:EOLhyphen"/>ſaid, That if any ſuch perſon ſo confined as aforeſaid, not having Lands, Tenements, Rents or Annuities, of an abſolute Eſtate of Inheritance or Freehold, of the clear yearly value of Twenty Marks, above all charges to their own uſe and behoof, or Goods and Chat<g ref="char:EOLhyphen"/>tels in their own right, and to their own proper uſe and behoof, above the value of One hundred pounds, ſhall not within the time before
+<pb n="719" facs="tcp:120057:5"/>
+               <!-- PDF PAGE 90 -->in this Act in that behalf limited and appointed, repair to their place of uſual dwelling and abode, if they have any, or elſe to the place where they were born, or where their Father or Mother ſhall be dwelling, and give ſuch notification of their coming and being, as is before limited and directed, ſhall upon his Oath abjure this Com<g ref="char:EOLhyphen"/>monwealth; or if ſuch Offender ſhall refuſe to abjure, or not go to the Haven or Port to be ap<g ref="char:EOLhyphen"/>pointed, or after departure, return into this Commonwealth without Licenſe of the Par<g ref="char:EOLhyphen"/>liament, the ſaid Oath and Abjuration, Entring and Recording thereof, to be in ſuch maner and form as is in like caſe preſcribed by the Statute made in the <hi>35<hi rend="sup">th</hi>
+               </hi> year of the late Queeen <hi>Elizabeth,</hi> for confining of Popiſh Re<g ref="char:EOLhyphen"/>cuſants; That then in every ſuch caſe, the per<g ref="char:EOLhyphen"/>ſon ſo offending ſhall be adjudged a Felon, and ſhall ſuffer and loſe as in caſe of Felony, with<g ref="char:EOLhyphen"/>out benefit of Clergy. Provided nevertheleſs, And the Councel of State are hereby autho<g ref="char:EOLhyphen"/>rized, to diſpoſe of any ſuch perſons laſt men<g ref="char:EOLhyphen"/>tioned, before abjuration, for the ſervice and bene<g ref="char:EOLhyphen"/>fit of Forraign Plantations, in ſuch ſort as to them ſhall ſeem meet; in which caſe the abjura<g ref="char:EOLhyphen"/>tion ſhall be forborn. And it is further Provi<g ref="char:EOLhyphen"/>ded, Ordained and Enacted by the authority a<g ref="char:EOLhyphen"/>foreſaid, That if any of the perſons confined as is aforeſaid, ſhall be urged by proceſs without fraud or covin, or be bound without fraud or covin to appear in any of the Courts of Iuſtice of this Commonwealth; or ſhall have other neceſſary occaſion or buſineſs to go and travel out of the compaſs of the ſaid five Miles, That then and in every ſuch caſe, upon Licenſe in writing under the Hands and Seals of four of the Iuſtices of the Peace of the County, Limit or Diviſion, or
+<pb n="720" facs="tcp:120057:6"/>
+               <!-- PDF PAGE 91 -->place next adjoyning to the place of abode of the ſaid confined party; in every of which Licenſes ſhall be ſpecified and contained, both the particu<g ref="char:EOLhyphen"/>lar cauſe of the ſaid Licenſe, and the time how long the ſaid party licenſed ſhall be abſent, in travelling, attending and returning; It ſhall and may be lawful for ſuch licenſed perſon to go and travel about ſuch their neceſſary buſineſs, and for ſuch time onely for their travelling, at<g ref="char:EOLhyphen"/>tending and returning, as ſhall be comprized in the ſaid Licenſe, ſo as the ſaid party ſo licenſed firſt take the Engagement, of being true and faithful to this Commonwealth, as it is now Eſtabliſhed, without King or Houſe of Lords; and alſo take his or her Corporal Oath before the ſaid four Iuſtices of the Peace, or any of them (who ſhall have authority by vertue of this Act to miniſter the ſame) that he or ſhe hath truly informed them of the cauſe of his or their Iour<g ref="char:EOLhyphen"/>ney, and ſhall not make any cauſleſs ſtays: And the Councel of State ſhall have like power to grant ſuch Licenſes upon like occaſions, and all and every other Licenſes ſhall be utterly void and of none effect. Provided, That no perſon, who by the Laws of this Commonwealth may be queſtioned for Treaſon, Felony, breach of Peace, or any other Crime, or for any Civil cauſe, ſhall be hereby exempted from any Legal Proſecution, but that every ſuch perſon may be proſecuted and dealt withal according to his merit, and according to Law and Iuſtice in that behalf, This Act, or any thing therein contain<g ref="char:EOLhyphen"/>ed in any wiſe to the contrary notwithſtanding. Provided, That nothing in this Act ſhall extend to ſuch Delinquents aforeſaid, who having their uſual Habitations within the late Lines of Communication, or within the ſaid ſpace of
+<pb n="721" facs="tcp:120057:6"/>
+               <!-- PDF PAGE 91 -->Twenty Miles, have made their Compoſitions, and paid in or ſecured their Fines; or whoſe De<g ref="char:EOLhyphen"/>linquencies have been pardoned by the Parlia<g ref="char:EOLhyphen"/>ment, not having acted any thing againſt it ſince that time, ſo as ſuch perſons give in a note of their names and places of reſidence to ſuch per<g ref="char:EOLhyphen"/>ſons, and in ſuch maner, and upon ſuch penal<g ref="char:EOLhyphen"/>ties to be preſented and Recorded, as is in like caſe before limited, before the twentieth of <hi>March,</hi> One thouſand ſix hundred forty nine; and ſo as they procure a true Certificate in writing of their taking the Engagement, to be true and faithful to the Commonwealth of <hi>England,</hi> as the ſame is now Eſtabliſhed, without a King or Houſe of Lords, to be Entred and Recorded as is before<g ref="char:EOLhyphen"/>mentioned, or to ſuch as ſhall be authorized by the Parliament or Councel of State; or being really attending their Compoſitions at <hi>Gold<g ref="char:EOLhyphen"/>ſmiths</hi>-Hall, ſhall be permitted by the Commiſſio<g ref="char:EOLhyphen"/>ners for ſuch Compoſitions, to continue within the ſaid late Lines for and during the perfect<g ref="char:EOLhyphen"/>ing of their Compoſitions onely, ſuch parties en<g ref="char:EOLhyphen"/>tring their Engagements before the ſaid Com<g ref="char:EOLhyphen"/>miſsioners, To be true and faithful to this Com<g ref="char:EOLhyphen"/>monwealth, as the ſame is now Eſtabliſhed, without a King or Houſe of Lords; and giving a note alſo to the ſaid Commiſsioners of the places of their abode, whileſt they are attending their ſaid Compoſitions, which Commiſſioners are to make due Entry of the ſame in their Books: And all perſons whatſoever mentioned or concerned in this Act, are to take notice of the ſame, and to conform thereunto reſpectively. And for that it is well known that there are many Prieſts and Ieſuits, who are Traytors by the Law, come over from beyond the Seas, acting the part of Incendiaries here, and lurk<g ref="char:EOLhyphen"/>ing
+<pb n="722" facs="tcp:120057:7"/>
+               <!-- PDF PAGE 92 -->to do miſchief; It is further Enacted and Declared, That like reward ſhall be given to thoſe who ſhall diſcover ſuch perſons after the conviction of them, or ſhall diſcover their know<g ref="char:EOLhyphen"/>ing Receivers and Abbettors, as is by a late Act conferred and Ordained for the Apprehenders of Highway men; which each Sheriff where the Tryal and Conviction is, ſhall duly pay to the diſcoverer, and have the ſame allowed to him upon his accompts; and the Barons of the Ex<g ref="char:EOLhyphen"/>chequer are required to make allowance of the ſame: And all Iudges of the Law, and Iu<g ref="char:EOLhyphen"/>ſtices of the Peace, are required in their ſeveral Circuits and Seſſions to give in charge, and take enquiry and accompt of the due Execution of this Act; and all other Miniſters of Law and Iuſtice, are alſo upon all occaſions within their reſpective Limits, to do their duties in and con<g ref="char:EOLhyphen"/>cerning the ſame. And it is laſtly Ordered, That this Act be forthwith printed, and publiſh<g ref="char:EOLhyphen"/>ed by ſound of Trumpet and beat of Drum, at all uſual places within the ſaid Cities, and late Lines of Communication, in ſuch ſort as the Councel of State ſhall appoint, who are autho<g ref="char:EOLhyphen"/>rized and required to cauſe the ſame to be exe<g ref="char:EOLhyphen"/>cuted accordingly; and to ſend this Act to the Sheriffs of the ſeveral Counties within this Commonwealth, who are to publiſh the ſame ſo<g ref="char:EOLhyphen"/>lemnly at the two next County Courts after their reſpective Receipt thereof. And this Act is to have continuance and be in force until the twentieth day of <hi>March,</hi> which ſhall be in the year of our Lord, One thouſand ſix hundred and fifty, and no longer.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
